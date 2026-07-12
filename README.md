@@ -110,7 +110,7 @@ The hash of every block depends on the data stored in that block and the hash of
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-blockchain-dapp.git
+git clone https://github.com/zehrawarsi0228/todo-blockchain-dapp.git
 ```
 
 ## Step 2: Open the Project Folder
